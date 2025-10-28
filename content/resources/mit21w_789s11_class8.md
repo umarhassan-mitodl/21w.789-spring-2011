@@ -5,8 +5,6 @@ description: This resource contains information related to mobile persuasion and
 file: /courses/21w-789-communicating-with-mobile-technology-spring-2011/a9af5850207fbb92e82de784833e8049_MIT21W_789S11_class8.pdf
 file_size: 3163554
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
